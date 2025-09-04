@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Brian 👋
 
-<!--
-**joojaja/joojaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Computer Science Student @ NUS  
+💻 Interested in AI/ML & Full-Stack Development  
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=python,java,postgresql,react,javascript,git" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/brian-hu/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+### 📊 GitHub Stats
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=joojaja&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joojaja&layout=compact)
+
