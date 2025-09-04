@@ -7,7 +7,7 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/brian-hu/">
+  <a href="https://www.linkedin.com/in/brian-hu-479b02348/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
