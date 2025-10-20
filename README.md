@@ -3,7 +3,7 @@
 🎓 2nd Year Computer Science Student @ NUS  
 💻 Interested in AI/ML & Full-Stack Development  
 
-<img src="https://skillicons.dev/icons?i=python,java,postgresql,react,javascript,git" />
+<img src="https://skillicons.dev/icons?i=python,java,postgresql,react,javascript,git,docker" />
 
 ### 🔗 Connect with Me
 <p align="left">
