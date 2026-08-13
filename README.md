@@ -1,6 +1,6 @@
 # Hi, I'm Brian 👋
 
-🎓 2nd Year Computer Science Student @ NUS  
+🎓 3rd Year Computer Science Student @ NUS  
 💻 Interested in AI, ML & Full-Stack Development  
 
 <img src="https://skillicons.dev/icons?i=python,java,html,css,react,tailwind,javascript,express,nodejs,git,postgresql,mongodb,docker" />
